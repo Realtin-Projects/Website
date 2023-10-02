@@ -1,7 +1,0 @@
-﻿Rxml stands for Realtin's version of xml.
-Rxml is a value based programming language. It doesn't contain methods like other programming languages.
-
-1: Serialization.
-2: Creating dynamic objects based on rxml data.
-3: Com interoperability.
-4: AOT fast Serialization on mobile devices.
